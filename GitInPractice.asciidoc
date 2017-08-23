@@ -1,4 +1,4 @@
 Hallo dies ist eine Testdatei!
 Und dies ist doch ein schlechter Witz, und auch die neue, modifizierte 2. Zeile im Testdokument.
 Neue Zeile unter der korrigierten.
-Die vierte Zeile im Dokument.
+Die vierte Zeile im Dokument ist häufigen Änderungen unterworfen.
